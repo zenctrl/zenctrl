@@ -1,3 +1,4 @@
+![zenctrl logo](https://avatars2.githubusercontent.com/u/24602596?v=3&s=200) 
 # zenctrl
 The new way to control your smart home. Without hip apps or smartphones!
 
